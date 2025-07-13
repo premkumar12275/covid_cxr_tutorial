@@ -1,0 +1,8 @@
+tensorflow
+numpy
+tensorflow.keras.callbacks
+matplotlib
+seaborn
+cv2
+pandas
+sklearn
